@@ -1,8 +1,8 @@
 # Kenpana
 
 One package to rule them all,\
-One package to sync them, \
-One package to interface them all, \ 
+One package to sync them,\
+One package to interface them all,\ 
 And in the backend link them. 
 
 ## Functionality 
